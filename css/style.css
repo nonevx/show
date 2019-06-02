@@ -45,13 +45,20 @@ footer{
     color: #2bbc8a;
   }
 
+  .archives_p{
+    width: 95%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
   .text_span{
       color: #666666;
   }
 
   .text_a{
     text-decoration:underline;
-    text-decoration-color: white;
+    text-decoration-color: white; 
   }
 
   .text_a:hover{
